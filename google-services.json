@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "299175733792",
+    "firebase_url": "https://ionicpush-3fc26.firebaseio.com",
+    "project_id": "ionicpush-3fc26",
+    "storage_bucket": "ionicpush-3fc26.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299175733792:android:4355f1501875adbc",
+        "android_client_info": {
+          "package_name": "com.wellingtondessuy.ionicfcmpush"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299175733792-3c6a4732umvhtpbmduitet44se7ebelm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvjqtDxbcmjRbAso2seugivSYyIk86nB4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
